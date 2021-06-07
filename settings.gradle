@@ -1,0 +1,3 @@
+rootProject.name = "TestFFmpegDemo"
+include ':VideoDemo'
+include ':AudioDemo'
